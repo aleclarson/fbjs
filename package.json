@@ -66,6 +66,7 @@
     "Promise": "aleclarson/Promise#2.2.1",
     "core-js": "^1.0.0",
     "emptyFunction": "aleclarson/emptyFunction#1.0.0",
+    "emptyObject": "aleclarson/emptyObject#1.0.0",
     "immutable": "^3.7.6",
     "isomorphic-fetch": "^2.1.1",
     "loose-envify": "^1.0.0",
